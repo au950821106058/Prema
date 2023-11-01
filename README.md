@@ -22,7 +22,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Dataset:
        The dataset used in this project is not provided in this repository. You will need to obtain the dataset separately and place it in the data/ directory. The dataset should be in CSV format with features and the target variable (house prices).
 Usage:
-       Clone this repository to your local machine:git clone https://github.com/au950821106058/house price prediction.git
+       Clone this repository to your local machine:git clone (https://github.com/au950821106058/house price prediction.git) 
 Navigate:
      To the project directory:cd house-price-prediction
 
